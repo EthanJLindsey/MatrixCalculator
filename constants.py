@@ -1,0 +1,4 @@
+FAIL = 0
+SUCCESS = 1
+CONTINUE = 2
+BREAK = 3
