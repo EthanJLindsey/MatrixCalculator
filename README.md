@@ -1,1 +1,5 @@
 # MatrixCalculator
+
+This is a simple calculator program that I made to speed up calculations in my linear algebra course. Thie <b>matrixOp.py</b> file is the original file I made for the class. Because of a number of design problems in the original file, the new updated version runs from <b>main.py</b>. While the original file only prompts the user for input until completion, the new version uses a command line interface with certain commands. Matrices that are saved to .txt files can be loaded, multiplied, added, and exponentiated.
+<br>
+The three main focuses in the process of creating this were the following. First, I wanted to strengthen my Python programming skills. Secondly, I used my knowledge of bitwise operations and problem solving skills to optimize the algorithms. Thirdly, I wanted to excersize design decisions for the command line framework so that expanding the functionality of this interface could be made easier.
